@@ -1,0 +1,14 @@
+﻿I was working. (lie);+5;1
+We should break up!;-20;2
+Yes, I neglected you.;-15;3
+I didn't have time for you.;-5;4
+I'm an FBI agent. I have to go. (lie);-10;5
+I don't like you anymore.;-10;6
+I'll call your later.;-15;7
+Let's go to the cinema.;+20;8
+Of course you are.;+20;9
+Not anymore.;-40;10
+No, I really loved you.;+50;11
+Yes, you were my mission.;-5;12
+I have to save the world. (lie).;+40;13
+I love someone else.;-10;14

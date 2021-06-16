@@ -1,0 +1,14 @@
+I fell asleep.;-20;1
+I was at a meeting with our investors.;+10;2
+Yes, I got a better job.;-10;3
+No. I'll be more careful.;+20;4
+They wanna work with us.;+10;5
+They are not interested in our project.;-30;6
+No. I need to be fired for compensation.;+5;7
+Then, take it.;-10;8
+Thanks. You won't regret.;+5;9
+I don't care.;-40;10
+But, I refused them.;-60;11
+I will take care of everything.;+20;12
+Just kidding. I got the job.;+50;13
+They found the project simple.;-15;14

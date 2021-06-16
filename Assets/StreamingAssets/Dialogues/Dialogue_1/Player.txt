@@ -1,0 +1,14 @@
+﻿Why do you think that?;0;1
+She might find you unsatisfactory.;-5;2
+I have bad news for you...;-5;3
+That doesn't mean your wife is cheating.;15;4
+Yes. You are not handsome.;-10;5
+No, I think you are fine.;+10;6
+Your wife is cheating.;-10;7
+I'm joking. I think it is a miracle. You have to learn to be a dad. Haha.;+60;8
+Yes, absolutely.;+40;9
+No, she is cheating.;-30;10
+Nobody is perfect.;+25;11
+You should love yourself.;+25;12
+She don't deserve you.;+20;13
+Your wife is a biscuit.;+30;14

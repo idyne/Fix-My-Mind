@@ -1,0 +1,15 @@
+Why are you late for work?;0#1
+What a lack of discipline. Do you want to get fired?;2#3
+Oh really? How did it go?;4#5
+Then quit your job!;6#7
+This is your last chance.;8#9
+Very good news.;10#11
+Why!!?;12#13
+Hahaha. I'm not firing you.
+Get out of here!
+I hope so.
+Get out of here!
+What the fork!
+Great job.You are my best employee!
+Excellent!
+Oh no!
